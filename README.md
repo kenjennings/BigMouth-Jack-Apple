@@ -14,7 +14,7 @@ The program was republished by COMPUTE!'s Gazette in Issue 4, October 2025.
 
 I did a simple port to the Atari 8-bit computers' Atari BASIC, with a few enhancements.
 
-The Apple ][ version was written and tested on the AppleWin emulator for the TI99/4A V2.2 system.
+The Apple ][ version was written and tested on the AppleWin emulator.
 
 Since Apple doesn't have redefineable characters this is done with low res graphics.
 
