@@ -29,7 +29,5 @@ Files Included:
 
 * APLBMJ.TXT --- Text File written on a PC. Copy and then paste into AppleWin (Shift-Insert) should work fine.
 * APLBIGMJ#fc0801 -- This is the BASIC program saved in AppleWin to a virtual floppy disk and then extracted by CiderPress. Not sure if this is helpful or an improvement. Let me know.
-Press the Enter key to run through the animation frames of the pumpkin laughing.
-(I did not do all the animation mouth shapes that are in the Atari version).
 
 ---
